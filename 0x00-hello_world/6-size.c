@@ -7,8 +7,10 @@
 *this program prints "Programming is like building a multilingual puzzle
 * Return: 0
 */
+
 int main(void)
 {
+
  char a;
  int b;
  long c;
@@ -21,4 +23,5 @@ int main(void)
  printf("Size of a long long int: %1d byte(s)\n", sizeof(d));
  printf("Size of a float: %1d byte(s)\n", sizeof(e));
  return (0);
+
 }
